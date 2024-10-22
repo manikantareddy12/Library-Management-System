@@ -36,7 +36,7 @@ To run this project, you need to have the following installed:
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Library-Management-System.git
+   git clone https://github.com/manikantareddy12/Library-Management-System.git
    ```
    
 2. **Navigate to the project directory:**
