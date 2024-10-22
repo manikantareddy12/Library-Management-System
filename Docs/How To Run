@@ -1,0 +1,6 @@
+1. Simply execute the Library.py file by clicking the Run button in any Python Integrated Development Environment (IDE).
+2. Please input your username and password. If you are a first-time user, please sign up.
+3. We have two user types for login:
+      Employee. For administrative procedures such as adding a book, deleting a book, updating a book, issuing a book, and returning a book.
+      Student: Regarding student procedures such as searching for books.
+4. Utilize the user interface model to access the library features by navigating through the available options.
